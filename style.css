@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2? family= Anek+Odia & family= Open+Sans:wght@300 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Odia&family=Open+Sans:wght@300;400&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Odia&family=Open+Sans:wght@300&family=Source+Sans+Pro&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-size: contain;
+    margin-left: 0.5%;
+    font-size: 100%;
+    /*background: linear-gradient(68.15deg,  #9dacdb 16.62%, #5253b8 85.61%);*/
+    margin-right: 0.5%;
+}
+.tabela1{
+    color: aquamarine;
+}
+.imagcabecalho
+{
+    height: 150px;
+    border-radius: 10%;
+}
+.titulo
+{
+    color: rgb(1, 0, 2);
+}
+.conteudo
+{
+    box-sizing: border-box;
+    margin-top: 20px;
+    color:rgb(0, 0, 0);
+}
+.paragrafo
+{
+    text-align-last: left;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.titulo
+{
+    text-align-last: left;
+    font-size: 30px;
+    font-family: 'Anek Odia', sans-serif;
+}
+.linque
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.acora
+{
+    text-overflow: ellipsis;
+}
