@@ -14,9 +14,12 @@ body{
     font-size: 100%;
     /*background: linear-gradient(68.15deg,  #9dacdb 16.62%, #5253b8 85.61%);*/
     margin-right: 0.5%;
+    background-attachment: fixed;
+    
+          
 }
 .tabela1{
-    color: aquamarine;
+    color: rgb(139, 245, 240);
 }
 .imagcabecalho
 {
@@ -25,13 +28,13 @@ body{
 }
 .titulo
 {
-    color: rgb(1, 0, 2);
+    color: rgb(215, 243, 93);
 }
 .conteudo
 {
     box-sizing: border-box;
     margin-top: 20px;
-    color:rgb(0, 0, 0);
+    color:rgb(240, 231, 231);
 }
 .paragrafo
 {
@@ -52,4 +55,13 @@ body{
 .acora
 {
     text-overflow: ellipsis;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    border-radius: 35%;
+    /*font-size: 15.8px;*/
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 15px;
 }
